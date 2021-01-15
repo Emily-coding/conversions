@@ -46,7 +46,7 @@
 
 .chart-wrapper .line {
   fill: none;
-  stroke: steelblue;
+  stroke: #603B8F;
   stroke-width: 5px;
 }
 
@@ -72,7 +72,7 @@
     height: 1em;
     width: 1em;
     border-radius: 35%;
-    background-color: crimson;
+    background-color: #DB866F;
     display: inline-block;
     margin-right: 4px;
     margin-bottom: -0.16rem;
@@ -84,18 +84,18 @@
 }
 
 .chart-wrapper .focus circle {
-  fill: crimson;
-  stroke: crimson;
+  fill: #DB866F;
+  stroke: #DB866F;
   stroke-width: 2px;
   fill-opacity: 15%;
 }
 .chart-wrapper .focus rect {
-    fill: lightblue;
+    fill: #BAA0DB;
     opacity: 0.4;
     border-radius: 2px;
 }
 .chart-wrapper .focus.line {
-    stroke: steelblue;
+    stroke: #603B8F;
     stroke-dasharray: 2,5;
     stroke-width: 2;
     opacity: 0.5;
